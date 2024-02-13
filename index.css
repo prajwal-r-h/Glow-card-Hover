@@ -22,7 +22,8 @@ body {
   font-family: "League Spartan", system-ui, sans-serif;
   font-size: 1.1rem;
   line-height: 1.2;
-  background-color: #110e19;
+  /*background-color: #110e19;*/
+  background-color: white;
   color: #ddd;
 
   --dot-bg: black;
